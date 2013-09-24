@@ -21,6 +21,8 @@ How to use:
 
 Animations.EnterContent(FrameworkElement element, int offsetX, int offsetY);
 
+Animations.EnterContent(FrameworkElement element, int offsetX, int offsetY, bool animateOpacity); //overloaded animation to do animation without opacity
+
 Animations.EnterPage(FrameworkElement element, int offsetX, int offsetY);
 
 Animations.PeekAnimation(FrameworkElement element, int offsetX, int offsetY);
