@@ -3,7 +3,11 @@ Animations-cs
 
 Easy-to-use Windows 8 system animations for C#. Run animations from C# code with one line of code, like WinJS Animations.
 
+Windows 8 XAML are confusing, you can't run animation from code when you update UI without pain.
+
 Animation names are same as in WinJS. Preview animations on http://msdn.microsoft.com/en-us/library/windows/apps/hh465165.aspx
+
+Animations are exactly same, with exact bezier timeline points and durations, GPU-accelerated, just like it needs to be. Animations are created via Storyboard.
 
 Install
 =============
